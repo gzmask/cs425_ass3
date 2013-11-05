@@ -1,4 +1,4 @@
-// sobel.cpp : Laplacian sharpening
+// laplacian.cpp : Laplacian sharpening
 // Tested Environment: Darwin OSX X86_64 with g++ 4.2.1
 //
 // NAME:	  Shulang Lei
